@@ -52,7 +52,7 @@
 ### 🐍 Watch My Contributions Snake 🐍
 
 <p align="center">
-  <img src="https://github.com/rohanrwilliams/rohanrwilliams/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/vibhutirohan/vibhutirohan/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 
