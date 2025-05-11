@@ -58,5 +58,13 @@
   <img src="https://img.shields.io/badge/Hackathons-3x%20Winner-purple?style=for-the-badge&logo=hackclub&logoColor=white"/>
 </p>
 
+### ✨ Coding in Action
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="350" />
+</p>
+
+
 
 <p align="center">“Solve real problems. Code with purpose.” ⚡</p>
