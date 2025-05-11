@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Rohan Vibhuti </h1>
+<h3 align="center">🚀 Data Engineer | 🧠 ML & AI Enthusiast | ☁️ AWS Explorer | ⚽ Soccer Buff</h3>
 
-<!--
-**vibhutirohan/vibhutirohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Cloud+Pipelines+with+AWS;Deploying+ML+Apps+end-to-end;Solving+Real-World+Problems;Always+Learning+and+Creating!&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+- 🔭 I’m currently pursuing my Master’s in **Data Science @ University of New Haven**
+- 👨‍💻 I build **full-stack projects**, **data engineering pipelines**, and **ML apps**
+- 🛠️ Currently working on:  
+   `Real-Time Retail Analytics`, `House Price Prediction App`, `Educational Kids Platform - CodeGalaxy`
+- 📚 Tech Stack: Python, AWS, Apache Spark, SQL, React.js, Streamlit, Git
+- ⚽ Fun Fact: Played soccer at college level & love fitness!
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,aws,java,react,html,css,js,nodejs,bootstrap,mysql,postgres,git,github,figma,linux" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🌎 House Price Predictor](https://github.com/rohanrwilliams/house-price-predictor) | Smart ML-powered real estate price app with maps, currency conversion & trend insights | `Streamlit`, `Python`, `Scikit-Learn`, `Geopandas` |
+| [📊 Retail ETL Dashboard](https://github.com/rohanrwilliams/aws-retail-etl-pipeline) | Real-time retail ETL pipeline using AWS with Kinesis, Glue, Athena, Power BI | `AWS`, `ETL`, `Athena`, `Kinesis`, `Power BI` |
+| [👨‍🚀 CodeGalaxy](https://github.com/rohanrwilliams/codegalaxy-kids) | Gamified K–12 coding learning platform with AI buddy and voice assistant | `Bool`, `JavaScript`, `HTML/CSS`, `Animations` |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanrwilliams&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanrwilliams&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohanrwilliams)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-222222?style=for-the-badge&logo=codepen&logoColor=white)](https://rohanrwilliams.dev)
+[![Mail](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanrwilliams@gmail.com)
+
+---
+
+<p align="center">“Solve real problems. Code with purpose.” ⚡</p>
