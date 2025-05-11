@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Java%20Full%20Stack%20Dev-Experienced-blue?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spark%20ETL%20Pipelines-Proficient-yellow?style=for-the-badge&logo=apache-spark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-Active%20Learner-brightgreen?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hackathons-3x%20Winner-purple?style=for-the-badge&logo=hackclub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hackathons-2x%20Winner-purple?style=for-the-badge&logo=hackclub&logoColor=white"/>
 </p>
 
 ### ✨ Coding in Action
