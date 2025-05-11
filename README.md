@@ -49,5 +49,11 @@
 [![Mail]((https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanvibhuti666@gmail.com))
 
 ---
+### 🐍 Watch My Contributions Snake 🐍
+
+<p align="center">
+  <img src="https://github.com/rohanrwilliams/rohanrwilliams/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
 
 <p align="center">“Solve real problems. Code with purpose.” ⚡</p>
