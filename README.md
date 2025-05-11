@@ -28,9 +28,9 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🌎 House Price Predictor](https://github.com/rohanrwilliams/house-price-predictor) | Smart ML-powered real estate price app with maps, currency conversion & trend insights | `Streamlit`, `Python`, `Scikit-Learn`, `Geopandas` |
-| [📊 Retail ETL Dashboard](https://github.com/rohanrwilliams/aws-retail-etl-pipeline) | Real-time retail ETL pipeline using AWS with Kinesis, Glue, Athena, Power BI | `AWS`, `ETL`, `Athena`, `Kinesis`, `Power BI` |
-| [👨‍🚀 CodeGalaxy](https://github.com/rohanrwilliams/codegalaxy-kids) | Gamified K–12 coding learning platform with AI buddy and voice assistant | `Bool`, `JavaScript`, `HTML/CSS`, `Animations` |
+| [🌎 Real Estate Price Predictor](https://github.com/vibhutirohan/real-estate-price-predictor) | Smart ML-powered real estate price app with maps, currency conversion & trend insights | `Streamlit`, `Python`, `Scikit-Learn`, `Geopandas` |
+| [📊 Retail ETL Dashboard](https://github.com/vibhutirohan/retail-insights-etl-powerbi) | Real-time retail ETL pipeline using AWS with Kinesis, Glue, Athena, Power BI | `AWS`, `ETL`, `Athena`, `Kinesis`, `Power BI` |
+| [👨‍🚀 CodeGalaxy](https://code-galaxy-assistant.bool01.com/) | Gamified K–12 coding learning platform with AI buddy and voice assistant | `Bool`, `JavaScript`, `HTML/CSS`, `Animations` |
 
 ---
 
@@ -44,9 +44,9 @@
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohanrwilliams)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-222222?style=for-the-badge&logo=codepen&logoColor=white)](https://rohanrwilliams.dev)
-[![Mail](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanrwilliams@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/rohan-vibhuti/)
+[![Portfolio](https://vibhutirohan.github.io/rohan-vibhuti-portfolio/)
+[![Mail]((https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanvibhuti666@gmail.com))
 
 ---
 
