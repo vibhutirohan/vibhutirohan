@@ -44,8 +44,8 @@
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://www.linkedin.com/in/rohan-vibhuti/)
-[![Portfolio](https://vibhutirohan.github.io/rohan-vibhuti-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-vibhuti/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-222222?style=for-the-badge&logo=codepen&logoColor=white)](https://vibhutirohan.github.io/rohan-vibhuti-portfolio/)
 [![Mail]((https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanvibhuti666@gmail.com))
 
 ---
