@@ -1,36 +1,34 @@
-<h1 align="center">Hey there 👋, I'm Rohan Vibhuti </h1>
-<h3 align="center">🚀 Data Engineer | 🧠 ML & AI Enthusiast | ☁️ AWS Explorer | ⚽ Soccer Buff</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vibhutirohan/vibhutirohan/main/assets/banner.png" alt="Rohan Vibhuti Banner" />
+</p>
+
+<h1 align="center">Hi there 👋, I'm Rohan Vibhuti</h1>
+<h3 align="center">Data Engineer | AI Explorer | Cloud Crafter</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Cloud+Pipelines+with+AWS;Deploying+ML+Apps+end-to-end;Solving+Real-World+Problems;Always+Learning+and+Creating!&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Solving+Real+Problems+with+Data;AI%20Driven%20Projects;AWS+Cloud+Pipelines;Let’s+Build+Cool+Stuff!&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🔭 I’m currently pursuing my Master’s in **Data Science @ University of New Haven**
-- 👨‍💻 I build **full-stack projects**, **data engineering pipelines**, and **ML apps**
-- 🛠️ Currently working on:  
-   `Real-Time Retail Analytics`, `House Price Prediction App`, `Educational Kids Platform - CodeGalaxy`
-- 📚 Tech Stack: Python, AWS, Apache Spark, SQL, React.js, Streamlit, Git
-- ⚽ Fun Fact: Played soccer at college level & love fitness!
+### 🏷️ Custom Badges
 
----
-
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,aws,java,react,html,css,js,nodejs,bootstrap,mysql,postgres,git,github,figma,linux" />
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Explorer-Active-blueviolet?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Engineer-Building%20Pipelines-green?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Practitioner-ML%20&%20DL-orange?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 💼 Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🌎 Real Estate Price Predictor](https://github.com/vibhutirohan/real-estate-price-predictor) | Smart ML-powered real estate price app with maps, currency conversion & trend insights | `Streamlit`, `Python`, `Scikit-Learn`, `Geopandas` |
-| [📊 Retail ETL Dashboard](https://github.com/vibhutirohan/retail-insights-etl-powerbi) | Real-time retail ETL pipeline using AWS with Kinesis, Glue, Athena, Power BI | `AWS`, `ETL`, `Athena`, `Kinesis`, `Power BI` |
-| [👨‍🚀 CodeGalaxy](https://code-galaxy-assistant.bool01.com/) | Gamified K–12 coding learning platform with AI buddy and voice assistant | `Bool`, `JavaScript`, `HTML/CSS`, `Animations` |
+| [🏡 House Price Predictor](https://github.com/vibhutirohan/house-price-predictor) | Smart real estate predictor with map UI, trends, and currency switch | `Python`, `Streamlit`, `Geopandas`, `ML` |
+| [🛒 Retail ETL Dashboard](https://github.com/vibhutirohan/retail-etl-aws) | Real-time AWS pipeline with Kinesis, Athena, and Power BI | `AWS`, `Glue`, `Athena`, `Kinesis` |
+| [👾 CodeGalaxy](https://github.com/vibhutirohan/codegalaxy) | K–12 gamified education with coding games, avatars, AI buddy | `HTML`, `JS`, `Bool`, `Gamification` |
 
 ---
 
@@ -43,17 +41,9 @@
 
 ---
 
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-vibhuti/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-222222?style=for-the-badge&logo=codepen&logoColor=white)](https://vibhutirohan.github.io/rohan-vibhuti-portfolio/)
-[![Mail]((https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanvibhuti666@gmail.com))
+### 🐍 GitHub Snake Game
 
----
-### 🐍 Watch My Contributions Snake 🐍
-
+```markdown
 <p align="center">
   <img src="https://github.com/vibhutirohan/vibhutirohan/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-
-
-<p align="center">“Solve real problems. Code with purpose.” ⚡</p>
