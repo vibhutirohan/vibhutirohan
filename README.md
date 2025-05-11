@@ -65,6 +65,13 @@
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="350" />
 </p>
 
+### 🔥 My GitHub Activity
+[![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vibhutirohan&theme=react-dark&hide_border=true)](https://github.com/vibhutirohan)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vibhutirohan&label=Visitors&color=0e75b6&style=flat" alt="visitor badge"/>
+</p>
+
 
 
 <p align="center">“Solve real problems. Code with purpose.” ⚡</p>
