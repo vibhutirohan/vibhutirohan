@@ -69,6 +69,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Pipelines+with+AWS;Solving+Real+Problems+with+Data;Let’s+Build+Cool+Stuff!&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,aws,java,react,html,css,js,nodejs,bootstrap,mysql,git,github,figma&perline=8" />
+</p>
 
+<img src="https://media.giphy.com/media/ZEU9ryYGg0tXq/giphy.gif" width="40px"/> Coding Machine
 
 <p align="center">“Solve real problems. Code with purpose.” ⚡</p>
