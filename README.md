@@ -29,7 +29,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🌎 House Price Predictor](https://github.com/https://github.com/vibhutirohan/real-estate-price-predictor) | Smart ML-powered real estate price app with maps, currency conversion & trend insights | `Streamlit`, `Python`, `Scikit-Learn`, `Geopandas` |
+| [🌎 House Price Predictor](https://github.com/vibhutirohan/real-estate-price-predictor) | Smart ML-powered real estate price app with maps, currency conversion & trend insights | `Streamlit`, `Python`, `Scikit-Learn`, `Geopandas` |
 | [📊 Retail ETL Dashboard](https://github.com/vibhutirohan/retail-insights-etl-powerbi) | Real-time retail ETL pipeline using AWS with Kinesis, Glue, Athena, Power BI | `AWS`, `ETL`, `Athena`, `Kinesis`, `Power BI` |
 | [👨‍🚀 CodeGalaxy](https://code-galaxy-assistant.bool01.com/) | Gamified K–12 coding learning platform with AI buddy and voice assistant | `Bool`, `JavaScript`, `HTML/CSS`, `Animations` |
 
