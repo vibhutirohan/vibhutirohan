@@ -23,6 +23,54 @@
   <img src="https://skillicons.dev/icons?i=python,aws,java,react,html,css,js,nodejs,bootstrap,mysql,postgres,git,github,figma,linux" />
 </p>
 
+## 🛠️ Technical Skills
+
+### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+### 📚 Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Flask](https://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
+
+### 💾 Databases
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+
+### 🤖 Machine Learning
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn)
+![XGBoost](https://img.shields.io/badge/-XGBoost-F6981E?style=flat-square)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib)
+
+---
+
+## 🎓 Education
+
+| 🏫 University | 🎓 Degree | 📊 GPA | 🎓 Graduation | 📘 Relevant Courses |
+|---------------|-----------|--------|----------------|----------------------|
+| University of New Haven | MS in Data Science | 3.5/4.0 | May 2026 *(Expected)* | Data Mining, Big Data, AI, ML, Algorithms |
+| Sapthagiri College of Engineering | BE in Information Science | 8.5/10  | May 2023 | DBMS, Operating Systems, DSA, Networking |
+
 ---
 
 ### 🚀 Featured Projects
