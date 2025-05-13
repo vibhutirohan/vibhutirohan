@@ -104,6 +104,11 @@
   <img src="https://img.shields.io/badge/Hackathons-2x%20Winner-purple?style=for-the-badge&logo=hackclub&logoColor=white"/>
 </p>
 
+### 🔥 GitHub Activity Graph
+
+[![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vibhutirohan&theme=react-dark&hide_border=true)](https://github.com/vibhutirohan)
+
+
 
 ### ✨ Coding in Action
 
