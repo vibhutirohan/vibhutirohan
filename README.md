@@ -104,12 +104,6 @@
   <img src="https://img.shields.io/badge/Hackathons-2x%20Winner-purple?style=for-the-badge&logo=hackclub&logoColor=white"/>
 </p>
 
-### 🐍 Contribution Snake Game Animation
-
-<p align="center">
-  <img src="https://github.com/vibhutirohan/vibhutirohan/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 
 ### ✨ Coding in Action
 
