@@ -104,12 +104,6 @@
   <img src="https://img.shields.io/badge/Hackathons-2x%20Winner-purple?style=for-the-badge&logo=hackclub&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey+I'm+Rohan+Vibhuti!;Building+Data+Pipelines+on+AWS;Loves+ML%2C+Cloud%2C+and+Code;Let's+Build+Cool+Stuff!"/>
-</p>
-
-
-
 
 ### ✨ Coding in Action
 
