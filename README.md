@@ -11,8 +11,6 @@
 ### 🧑‍💻 About Me
 - 🔭 I’m currently pursuing my Master’s in **Data Science @ University of New Haven**
 - 👨‍💻 I build **full-stack projects**, **data engineering pipelines**, and **ML apps**
-- 🛠️ Currently working on:  
-   `Real-Time Retail Analytics`, `House Price Prediction App`, `Educational Kids Platform - CodeGalaxy`
 - 📚 Tech Stack: Python, AWS, Apache Spark, SQL, React.js, Streamlit, Git
 - ⚽ Fun Fact: Played soccer at college level & love fitness!
 
