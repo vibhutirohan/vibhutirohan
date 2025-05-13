@@ -65,7 +65,11 @@
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="350" />
 </p>
 
+### 🐍 Contribution Snake Game Animation
 
+<p align="center">
+  <img src="https://github.com/vibhutirohan/vibhutirohan/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vibhutirohan&label=Visitors&color=0e75b6&style=flat" alt="visitor badge"/>
 </p>
