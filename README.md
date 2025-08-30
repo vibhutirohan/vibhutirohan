@@ -1,24 +1,35 @@
-
-<h1 align="center">Hey there 👋, I'm Rohan Vibhuti </h1>
+<h1 align="center">Hey there 👋, I'm Rohan Vibhuti</h1>
 <h3 align="center">🚀 Data Engineer | 🧠 ML & AI Enthusiast | ☁️ AWS Explorer | ⚽ Soccer Buff</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Cloud+Pipelines+with+AWS;Deploying+ML+Apps+end-to-end;Solving+Real-World+Problems;Always+Learning+and+Creating!&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Cloud+Pipelines+with+AWS;Deploying+ML+Apps+end-to-end;Solving+Real-World+Problems;Always+Learning+and+Creating!&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&pause=800&size=22" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/vibhutirohan"><img src="https://komarev.com/ghpvc/?username=vibhutirohan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /></a>
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=vibhutirohan"><img src="https://visitor-badge.laobi.icu/badge?page_id=vibhutirohan" alt="visitors" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibhutirohan&no-bg=true&no-frame=true&row=1&column=6&theme=onedark" alt="trophies"/></a>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 I’m currently pursuing my Master’s in **Data Science @ University of New Haven**
-- 👨‍💻 I build **full-stack projects**, **data engineering pipelines**, and **ML apps**
+- 🔭 Pursuing **M.S. in Data Science @ University of New Haven** (May 2026)
+- 👨‍💻 I build **full-stack projects**, **Spark/ETL pipelines**, and **ML apps** end-to-end
 - 📚 Tech Stack: Python, AWS, Apache Spark, SQL, React.js, Streamlit, Git
-- ⚽ Fun Fact: Played soccer at college level & love fitness!
+- ⚽ Fun Fact: College-level soccer; disciplined, team-first mindset
+
+<details>
+  <summary><b>More about how I work (click to expand)</b> ✨</summary>
+  <br/>
+  I believe in craft, clarity, and consistency. I favor dependable patterns, clean interfaces, and data-driven decisions over hype. Measure twice, cut once; ship reliably.
+</details>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,aws,java,react,html,css,js,nodejs,bootstrap,mysql,postgres,git,github,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=python,aws,java,react,html,css,js,nodejs,express,bootstrap,flask,postgres,mysql,mongodb,git,github,docker,postman,linux,figma&perline=10" />
 </p>
 
 ## 🛠️ Technical Skills
@@ -36,7 +47,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Flask](https://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
@@ -44,14 +55,12 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
-
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
 
 ### 💾 Databases
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-
 
 ### 🤖 Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn)
@@ -79,14 +88,39 @@
 | [📊 Retail ETL Dashboard](https://github.com/vibhutirohan/retail-insights-etl-powerbi) | Real-time retail ETL pipeline using AWS with Kinesis, Glue, Athena, Power BI | `AWS`, `ETL`, `Athena`, `Kinesis`, `Power BI` |
 | [👨‍🚀 CodeGalaxy](https://code-galaxy-assistant.bool01.com/) | Gamified K–12 coding learning platform with AI buddy and voice assistant | `Bool`, `JavaScript`, `HTML/CSS`, `Animations` |
 
+<details>
+  <summary><b>Want more highlights?</b> 📌</summary>
+
+- 🧪 **Sparkify Labs**: EMR + PySpark Streaming, ALS Recommender, MapReduce jobs  
+- 🛰️ **Space Research DBMS**: SQL schema design, ER modeling, query optimization  
+- 🧭 **Virtual Assistant (Android)**: Accessibility features, real-time location & weather  
+- 👁️ **Emotion Detection (CNN)**: End-to-end pipeline with model serving
+</details>
+
 ---
 
-### 📊 GitHub Stats
+### 📈 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vibhutirohan&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vibhutirohan&show_icons=true&theme=radical&hide_title=false&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibhutirohan&theme=radical&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vibhutirohan&theme=github-compact&radius=8&hide_border=true" alt="activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhutirohan&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+### 🧭 Roadmap (What I’m Building Next)
+- 📦 Production-grade ETL with **Spark + Airflow** (or MWAA) on AWS  
+- 🔍 **Retrieval-augmented** analytics for real-estate trends (RAG + vector DB)  
+- 🧠 **LLM-powered** insights for user reviews (Uplaud) with explainable scoring  
+- 🌐 Clean, accessible dashboards (Streamlit/React + serverless deploys)
 
 ---
 
@@ -96,6 +130,7 @@
 [![Mail](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanvibhuti666@gmail.com)
 
 ---
+
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20Certified-In%20Progress-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java%20Full%20Stack%20Dev-Experienced-blue?style=for-the-badge&logo=java&logoColor=white"/>
@@ -104,12 +139,20 @@
   <img src="https://img.shields.io/badge/Hackathons-2x%20Winner-purple?style=for-the-badge&logo=hackclub&logoColor=white"/>
 </p>
 
-
 ### ✨ Coding in Action
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="320" />
 </p>
 
-<p align="center">“Solve real problems. Code with purpose.” ⚡</p>
+---
+
+### 🐍 Contributions (retro arcade vibes)
+<!-- Requires a GitHub Action to generate the snake SVG -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vibhutirohan/vibhutirohan/output/snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center"><em>“Solve real problems. Code with purpose.” ⚡</em></p>
