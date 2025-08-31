@@ -145,14 +145,3 @@
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="320" />
 </p>
 
----
-
-### 🐍 Contributions (retro arcade vibes)
-<!-- Requires a GitHub Action to generate the snake SVG -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vibhutirohan/vibhutirohan/output/snake.svg" alt="snake animation" />
-</p>
-
----
-
-<p align="center"><em>“Solve real problems. Code with purpose.” ⚡</em></p>
