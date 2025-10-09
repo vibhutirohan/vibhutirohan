@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Rohan Vibhuti</h1>
-<h3 align="center">🚀 Data Engineer | 🧠 ML & AI Enthusiast | ☁️ AWS Explorer | ⚽ Soccer Buff</h3>
+<h3 align="center">🚀 Data Engineer | 🧠 ML & AI Enthusiast | ☁️ AWS Explorer | ⚽ Soccer Buff | 👨‍💻Software Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+Cloud+Pipelines+with+AWS;Deploying+ML+Apps+end-to-end;Solving+Real-World+Problems;Always+Learning+and+Creating!&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&pause=800&size=22" />
