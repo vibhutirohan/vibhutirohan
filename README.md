@@ -145,3 +145,5 @@
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="320" />
 </p>
 
+[![An image of @rohan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohan)](https://holopin.io/@rohan)
+
