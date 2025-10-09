@@ -115,6 +115,7 @@
 </p>
 
 ---
+[![An image of @rohan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohan)](https://holopin.io/@rohan)
 
 ### 🧭 Roadmap (What I’m Building Next)
 - 📦 Production-grade ETL with **Spark + Airflow** (or MWAA) on AWS  
@@ -146,4 +147,5 @@
 </p>
 
 [![An image of @rohan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohan)](https://holopin.io/@rohan)
+
 
