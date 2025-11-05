@@ -75,7 +75,7 @@
 
 | 🏫 University | 🎓 Degree | 📊 GPA | 🎓 Graduation | 📘 Relevant Courses |
 |---------------|-----------|--------|----------------|----------------------|
-| University of New Haven | MS in Data Science | 3.5/4.0 | May 2026 *(Expected)* | Data Mining, Big Data, AI, ML, Algorithms |
+| University of New Haven | MS in Data Science | 3.5/4.0 | August 2026 | Data Engineering , Artficial Intelligence,Machine Learning , Deep Learning , Natural Langugae Processing |
 | Sapthagiri College of Engineering | BE in Information Science | 8.5/10  | May 2023 | DBMS, Operating Systems, DSA, Networking |
 
 ---
