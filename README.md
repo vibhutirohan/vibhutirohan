@@ -90,9 +90,9 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🌎 House Price Predictor](https://github.com/vibhutirohan/real-estate-price-predictor) | Smart ML-powered real estate price app with maps, currency conversion & trend insights | `Streamlit`, `Python`, `Scikit-Learn`, `Geopandas` |
-| [📊 Retail ETL Dashboard](https://github.com/vibhutirohan/retail-insights-etl-powerbi) | Real-time retail ETL pipeline using AWS with Kinesis, Glue, Athena, Power BI | `AWS`, `ETL`, `Athena`, `Kinesis`, `Power BI` |
-| [👨‍🚀 CodeGalaxy](https://code-galaxy-assistant.bool01.com/) | Gamified K–12 coding learning platform with AI buddy and voice assistant | `Bool`, `JavaScript`, `HTML/CSS`, `Animations` |
+| 🌆 **Urban Car Crash Risk Radar (AWS Data Engineering)** | Cloud-native data engineering system built to collect, clean, and model **millions of crash records** across LA, Houston, Detroit, Dallas, and Memphis. Designed Glue ETL jobs, partitioned Parquet datasets, and optimized Athena queries — reducing query latency by **40–60%**. | `AWS Glue`, `Athena`, `S3`, `ETL`, `Parquet`, `SQL`, `Data Engineering` |
+| 🏡 **Real Estate Price Predictor (ML Analytics App)** | Multi-model ML platform using **XGBoost, Random Forest, and Linear Regression** to predict house prices with trend insights and region-based analytics. Enhanced with data preprocessing and visual insights. | `Python`, `XGBoost`, `Random Forest`, `Linear Regression`, `Pandas`, `NumPy`, `ML` |
+| 😊 **Emotion Detection Using CNN (Deep Learning Project)** | Built a CNN-based facial emotion recognition system in TensorFlow/Keras achieving **87% accuracy** across 7 emotions. Applied OpenCV preprocessing and data augmentation, improving model generalization and reducing overfitting by **25%**. | `TensorFlow`, `Keras`, `CNN`, `OpenCV`, `Deep Learning` |
 
 <details>
   <summary><b>Want more highlights?</b> 📌</summary>
@@ -100,10 +100,9 @@
 - 🧪 **Sparkify Labs**: EMR + PySpark Streaming, ALS Recommender, MapReduce jobs  
 - 🛰️ **Space Research DBMS**: SQL schema design, ER modeling, query optimization  
 - 🧭 **Virtual Assistant (Android)**: Accessibility features, real-time location & weather  
-- 👁️ **Emotion Detection (CNN)**: End-to-end pipeline with model serving  
+- 👁️ **Emotion Detection (CNN)**: End-to-end pipeline with model serving (extended work)  
 </details>
 
----
 
 ### 📈 Activity & Stats
 
