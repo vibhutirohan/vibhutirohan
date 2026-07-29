@@ -1,158 +1,284 @@
 <h1 align="center">Hey there 👋, I'm Rohan Vibhuti</h1>
-<h3 align="center">🚀 Data Engineer | 🧠 ML & AI Enthusiast | ☁️ AWS Explorer | ⚽ Soccer Buff | 👨‍💻 Software Developer</h3>
+
+<h3 align="center">
+Data Engineer | Software Developer | Machine Learning & AI Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Cloud+Pipelines+with+AWS;Deploying+ML+Apps+End-to-End;Data+Engineering+%7C+AI+%7C+Analytics;Always+Learning+and+Creating!&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&pause=800&size=22" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?lines=Building+AWS-Powered+Data+Pipelines;Working+with+Enterprise+Data+Warehouses;Developing+Machine+Learning+Systems;Creating+Reliable+Full-Stack+Applications;Turning+Data+into+Business+Value&font=Fira+Code&center=true&width=720&height=45&color=58A6FF&vCenter=true&pause=900&size=21"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/vibhutirohan"><img src="https://komarev.com/ghpvc/?username=vibhutirohan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /></a>
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=vibhutirohan"><img src="https://visitor-badge.laobi.icu/badge?page_id=vibhutirohan" alt="visitors" /></a>
-  
+  <a href="https://github.com/vibhutirohan">
+    <img src="https://komarev.com/ghpvc/?username=vibhutirohan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://www.linkedin.com/in/rohan-vibhuti/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://rohan-vibhuti-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:rohanvibhuti6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me  
-- 🎓 Graduate Student – **M.S. Data Science @ University of New Haven** (May 2026)  
-- 🛠 Currently working as an **AI Automation Engineer (Extern)**  
-- 👨‍💻 Experience as **Software Developer Intern (Uplaud)** and **Full Stack Developer Intern (Cognizant)**  
-- 📊 Passionate about **data engineering**, **industry insights**, **machine learning**, **economic research**, and **cloud analytics**  
-- 🚀 I design end-to-end systems: **Data pipelines → ML Models → Dashboards → Deployment**  
-- ⚽ Fun Fact: Played college-level soccer; teamwork and discipline are core to how I work  
+## 👨‍💻 About Me
+
+I am a **Data Engineer and Software Developer** with experience working across enterprise data platforms, cloud infrastructure, machine learning systems, and full-stack applications.
+
+* 🎓 Recently completed my **M.S. in Data Science** at the **University of New Haven**
+* 🏢 Currently working as a **Data Engineer Intern at Nassau Financial Group**
+* ☁️ Experienced with AWS-based data environments, including **S3, Glue, Athena, Redshift, Lambda, DynamoDB, CloudWatch, and Step Functions**
+* 📊 Interested in **data engineering, enterprise data warehousing, data governance, machine learning, and cloud analytics**
+* 👨‍💻 Previous experience in **frontend, backend, and full-stack software development**
+* 🚀 I enjoy building complete systems—from **data ingestion and transformation to analytics, machine learning, APIs, dashboards, and deployment**
+* ⚽ Outside technology, I enjoy soccer, cricket, fitness, and exploring new ideas
 
 <details>
-  <summary><b>More about how I work (click to expand)</b> ✨</summary>
+  <summary><b>How I Approach Engineering</b></summary>
   <br/>
-  I care deeply about clarity, performance, and creating systems that last.  
-  I believe in "measure twice, build once" — prioritizing stability, clean architecture, strong documentation, and thoughtful experimentation.  
-  I always bring a mix of creativity & engineering discipline to everything I build.
+
+I value clarity, reliability, maintainability, and measurable outcomes.
+
+My approach is built around understanding the business requirement, designing the right architecture, validating the output, documenting the process, and continuously improving the solution.
+
+I believe strong engineering is not only about writing code—it is about building systems that people can understand, trust, and maintain.
+
 </details>
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,aws,java,react,html,css,js,nodejs,express,bootstrap,flask,postgres,mysql,mongodb,git,github,docker,postman,linux,figma&perline=10" />
-</p>
+## 💼 Professional Experience
+
+### Data Engineer Intern — Nassau Financial Group
+
+**Hartford, Connecticut | June 2026 – Present**
+
+* Support Enterprise Data Warehouse and data-governance workflows across AWS-based data lake environments.
+* Work with **Amazon S3, Redshift, Glue, Athena, DynamoDB, Lambda, CloudWatch, and Step Functions**.
+* Perform SQL-based EDW file analysis and validation using **SQL Workbench/J, Redshift, Athena, and S3**.
+* Review file movement, schema consistency, data availability, transformation logic, and delivery readiness.
+* Contribute to data validation, regression testing, source-to-target analysis, and technical documentation.
+
+### Frontend Developer Intern — Kitme Inc.
+
+**New York, United States | January 2026 – May 2026**
+
+* Developed responsive frontend components using **Next.js, React, TypeScript, Tailwind CSS, and Framer Motion**.
+* Improved mobile responsiveness, UI consistency, and Figma-to-production design accuracy.
+* Debugged production issues in a **Python/Django API**.
+* Investigated Google Cloud Logging severity mismatches and improved stdout/stderr routing for more accurate application logging.
+
+### Software Developer Intern — Uplaud Inc.
+
+**Austin, Texas | May 2025 – August 2025**
+
+* Engineered a WhatsApp OTP authentication workflow using **React and the Twilio API**.
+* Implemented validation for realistic authentication scenarios and edge cases.
+* Integrated frontend authentication workflows with an **Airtable-backed data layer**.
+* Supported the storage, retrieval, and management of user-profile information.
+
+### Full Stack Developer Intern — Cognizant Technology Solutions
+
+**Chennai, India | December 2023 – July 2024**
+
+* Developed enterprise full-stack applications using **Java, Spring Boot, Maven, AngularJS, and MySQL**.
+* Supported business-critical application workflows and production-facing functionality.
+* Improved application performance through database-query optimization and code refactoring.
+* Reduced average page-load times by approximately **30%**.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 👨‍💻 Languages  
-![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+### Programming Languages
 
-### 📚 Frameworks & Libraries  
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![Flask](https://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,r,cpp,html,css&perline=8" alt="Programming languages" />
+</p>
 
-### 🔧 Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
+`Python` `SQL` `Java` `JavaScript` `TypeScript` `R` `C++` `HTML` `CSS`
 
-### 💾 Databases  
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+### Cloud & Data Engineering
 
-### 🤖 Machine Learning  
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn)
-![XGBoost](https://img.shields.io/badge/-XGBoost-F6981E?style=flat-square)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux&perline=8" alt="Cloud technologies" />
+</p>
+
+`AWS` `GCP` `ETL` `Data Warehousing` `Data Lakes` `Data Governance` `Apache Spark` `PySpark` `Hadoop` `Apache Airflow` `AWS Glue` `AWS Lambda` `AWS Step Functions`
+
+### Databases & Query Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=8" alt="Databases" />
+</p>
+
+`Amazon Redshift` `Amazon Athena` `DynamoDB` `PostgreSQL` `MySQL` `MongoDB` `SQL Workbench/J`
+
+### Web & Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,nodejs,express,spring,flask,tailwind&perline=8" alt="Web development technologies" />
+</p>
+
+`React` `Next.js` `Angular` `Node.js` `Express.js` `Spring Boot` `Flask` `FastAPI` `Tailwind CSS` `REST APIs`
+
+### Machine Learning & Analytics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=8" alt="Machine learning technologies" />
+</p>
+
+`TensorFlow` `Keras` `PyTorch` `Scikit-learn` `XGBoost` `Pandas` `NumPy` `Matplotlib` `NLP` `RAG` `Power BI` `Streamlit`
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,vercel&perline=8" alt="Development tools" />
+</p>
+
+`Git` `GitHub` `Docker` `CI/CD` `Postman` `VS Code` `Figma` `Vercel` `Agile/Scrum`
+
+---
+
+## 🚀 Featured Projects
+
+### 🌆 Urban Car Crash Risk Radar
+
+**AWS Data Engineering Project**
+
+* Designed a cloud-native data engineering system to collect, clean, transform, and model millions of crash records.
+* Processed datasets covering **Los Angeles, Houston, Detroit, Dallas, and Memphis**.
+* Developed AWS Glue ETL jobs and stored optimized datasets in partitioned Parquet format.
+* Improved Athena query performance and reduced query latency by approximately **40–60%**.
+
+**Technologies:**
+`AWS Glue` `Amazon S3` `Amazon Athena` `PySpark` `Parquet` `SQL` `ETL`
+
+---
+
+### 🌪️ StormSafe
+
+**NLP and Retrieval-Augmented Generation System**
+
+* Built a Retrieval-Augmented Generation system for disaster-preparedness information.
+* Used **FAISS and Sentence Transformers** to perform semantic search across trusted safety documents.
+* Evaluated **Phi-3 Mini, Qwen, and TinyLlama** language models.
+* Compared models using factual accuracy, faithfulness, answer relevance, completeness, citation quality, and hallucination-reduction metrics.
+
+**Technologies:**
+`Python` `FAISS` `Sentence Transformers` `NLP` `RAG` `LLMs` `Machine Learning`
+
+---
+
+### 🌊 Flood Risk Prediction
+
+**End-to-End Machine Learning Application**
+
+* Developed a complete machine learning system for predicting flood risk.
+* Performed data preprocessing, feature engineering, model training, and F1-based evaluation.
+* Productionized the selected model through a **FastAPI REST service**.
+* Built an interactive **Streamlit dashboard** for predictions and analytical insights.
+
+**Technologies:**
+`Python` `Scikit-learn` `FastAPI` `Streamlit` `Pandas` `Machine Learning`
+
+---
+
+<details>
+  <summary><b>Additional Project Highlights</b></summary>
+  <br/>
+
+* 🧪 **Sparkify Labs:** EMR, PySpark Streaming, recommendation systems, and distributed processing
+* 🛰️ **Space Research Database:** Relational schema design, ER modeling, SQL, and query optimization
+* 🧭 **Virtual Assistant:** Android application with accessibility, location, and weather capabilities
+* 😊 **Emotion Detection:** CNN-based facial-emotion recognition using TensorFlow, Keras, and OpenCV
+* 🏡 **Real Estate Price Predictor:** Multi-model property-price prediction and analytics application
+
+</details>
 
 ---
 
 ## 🎓 Education
 
-| 🏫 University | 🎓 Degree | 📊 GPA | 🎓 Graduation | 📘 Relevant Courses |
-|---------------|-----------|--------|----------------|----------------------|
-| University of New Haven | MS in Data Science | 3.5/4.0 | May 2026 | Data Engineering, AI, ML, Deep Learning, NLP |
-| Sapthagiri College of Engineering | BE in Information Science | 8.5/10 | May 2023 | DBMS, Operating Systems, DSA, Networking |
+| Institution                               | Degree                                         | Duration                  |
+| ----------------------------------------- | ---------------------------------------------- | ------------------------- |
+| **University of New Haven**               | Master of Science in Data Science              | August 2024 – May 2026    |
+| **Visvesvaraya Technological University** | Bachelor of Engineering in Information Science | August 2019 – August 2023 |
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🌆 **Urban Car Crash Risk Radar (AWS Data Engineering)** | Cloud-native data engineering system built to collect, clean, and model **millions of crash records** across LA, Houston, Detroit, Dallas, and Memphis. Designed Glue ETL jobs, partitioned Parquet datasets, and optimized Athena queries — reducing query latency by **40–60%**. | `AWS Glue`, `Athena`, `S3`, `ETL`, `Parquet`, `SQL`, `Data Engineering` |
-| 🏡 **Real Estate Price Predictor (ML Analytics App)** | Multi-model ML platform using **XGBoost, Random Forest, and Linear Regression** to predict house prices with trend insights and region-based analytics. Enhanced with data preprocessing and visual insights. | `Python`, `XGBoost`, `Random Forest`, `Linear Regression`, `Pandas`, `NumPy`, `ML` |
-| 😊 **Emotion Detection Using CNN (Deep Learning Project)** | Built a CNN-based facial emotion recognition system in TensorFlow/Keras achieving **87% accuracy** across 7 emotions. Applied OpenCV preprocessing and data augmentation, improving model generalization and reducing overfitting by **25%**. | `TensorFlow`, `Keras`, `CNN`, `OpenCV`, `Deep Learning` |
-
-<details>
-  <summary><b>Want more highlights?</b> 📌</summary>
-
-- 🧪 **Sparkify Labs**: EMR + PySpark Streaming, ALS Recommender, MapReduce jobs  
-- 🛰️ **Space Research DBMS**: SQL schema design, ER modeling, query optimization  
-- 🧭 **Virtual Assistant (Android)**: Accessibility features, real-time location & weather  
-- 👁️ **Emotion Detection (CNN)**: End-to-end pipeline with model serving (extended work)  
-</details>
-
-
-### 📈 Activity & Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vibhutirohan&show_icons=true&theme=radical&hide_title=false&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibhutirohan&theme=radical&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vibhutirohan&show_icons=true&theme=github_dark&hide_border=true"
+    height="165"
+    alt="Rohan's GitHub stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vibhutirohan&theme=github-dark-blue&hide_border=true"
+    height="165"
+    alt="Rohan's GitHub streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vibhutirohan&theme=github-compact&radius=8&hide_border=true" alt="activity graph" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhutirohan&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    height="165"
+    alt="Most-used languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhutirohan&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vibhutirohan&theme=github-compact&radius=8&hide_border=true"
+    alt="GitHub activity graph"
+  />
 </p>
 
 ---
 
-[![Holopin](https://holopin.me/rohan)](https://holopin.io/@rohan)
+## 🧭 Currently Exploring
+
+* Production-grade ETL pipelines using **Spark and Apache Airflow**
+* Enterprise data warehousing and data-governance practices
+* AWS serverless data-processing architectures
+* Retrieval-Augmented Generation and LLM evaluation
+* Data-quality automation and source-to-target lineage
+* Interactive analytics applications using **React, Streamlit, and Power BI**
 
 ---
 
-### 🧭 Roadmap (What I’m Building Next)
-- 📦 Production-grade ETL with **Spark + Airflow (MWAA)**  
-- 🔍 RAG-powered **real-estate data analytics**  
-- 🧠 LLM-driven **review authenticity scoring** (Uplaud AI)  
-- 🌐 Interactive dashboards with **React + AWS serverless**  
-
----
-
-### 📫 Let's Connect!
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-222222?style=for-the-badge&logo=codepen&logoColor=white)](https://rohan-vibhuti-portfolio.vercel.app/)
-[![Mail](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanvibhuti666@gmail.com)
-
----
+## 📫 Connect With Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified-In%20Progress-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Automation%20Engineer-Active-green?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spark%20ETL%20Pipelines-Proficient-yellow?style=for-the-badge&logo=apache-spark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Active%20Learner-brightgreen?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hackathons-2x%20Winner-purple?style=for-the-badge&logo=hackclub&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/rohan-vibhuti/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohan%20Vibhuti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://rohan-vibhuti-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:rohanvibhuti6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-### ✨ Coding in Action  
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Engineering-AWS%20%7C%20ETL%20%7C%20EDW-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Data engineering" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Production%20Focused-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine learning" />
+  <img src="https://img.shields.io/badge/Software%20Development-Full%20Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Software development" />
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="320" />
+  <i>Building reliable systems, learning continuously, and turning data into meaningful outcomes.</i>
 </p>
